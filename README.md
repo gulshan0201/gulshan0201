@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML, CSS, Javascript, React, Node Js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email-gulshan.crj26@gmail.com
+- 📫 How to reach me gulshan.crj26@gmail.com
 - linkdin id - linkedin.com/in/nyabilli-gulshan-kumar-053393183
 
 <!---
