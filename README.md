@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gulshan0201
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python, R, Machine Learning, Data Science.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gulshan.crj26@gmail.com
