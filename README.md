@@ -13,7 +13,7 @@
 
 **Full-Stack Developer → Aspiring Data Scientist**
 
-*MTech @ GITAM Visakhapatnam · Vizianagaram, Andhra Pradesh*
+*MTech @ GITAM Visakhapatnam, Andhra Pradesh*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-N.Gulshan_Kumar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nyabilli-gulshan-kumar-053393183/)
 [![GitHub](https://img.shields.io/badge/GitHub-gulshan0201-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gulshan0201)
