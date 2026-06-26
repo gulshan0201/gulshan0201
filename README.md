@@ -9,7 +9,7 @@
 
 <div align="center">
 
-# `$ I AM N. Gulshan Kumar`
+# `$ I AM - N.Gulshan Kumar`
 
 **Full-Stack Developer → Aspiring Data Scientist**
 
