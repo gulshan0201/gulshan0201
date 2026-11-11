@@ -86,7 +86,7 @@ class GulshanKumar:
 
 | Period | Role | Organization |
 |--------|------|--------------|
-| Feb 2023 – 2025 | **Chief Technology Officer** | Webnovetrix |
+| Feb 2023 – 2025 | **Chief Technology Officer** | Perfecto Research |
 | Jan 2020 – 2023 | **Freelance Web Developer** | 20+ Clients |
 
 **As CTO:** Led scalable web app architecture · managed full project lifecycles · mentored dev team · enforced coding standards.
